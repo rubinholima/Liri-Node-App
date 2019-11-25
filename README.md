@@ -52,14 +52,14 @@ LIRI is run in the command line.
     * If no argument (Artist or Band) is entered, it will search using "Roberto Carlos" as a default value
     * Save command and argument to `addToFile` method.
     * Screenshot:
-        * ![Concert-This](assets/images/Concert-This.mov)
+        * ![Concert-This](assets/images/Concert-This.gif)
 
 * `node liri.js spotify-this-song <song name here>` runs the `spotifyThis` method.
     * If a song is entered, it will send it as a query to the Spotify API and returns the artist's name, song name, preview link, and album.
     * If no argument is given, "Never gonna give you up" will be used as a default argument.
     * Save command and argument to `addToFile` method.
     * Screenshot:
-        * ![Spotify-This-Song](assets/images/SpotifyThis.mov)
+        * ![Spotify-This-Song](assets/images/SpotifyThis.gif)
         
 
 
@@ -68,7 +68,7 @@ LIRI is run in the command line.
     * If no movie is entered, a default value of "Mr Nobody" is used.
     * Save command and argument to `addToFile` method.
     * Screenshot:
-        * ![Movie-This](assets/images/Movie-This.mov)
+        * ![Movie-This](assets/images/Movie-This.gif)
 
 
 * `node liri.js do-what-it-says` runs the `doWhatItSays` method using the FS module to get a string from the `random.txt` file.
@@ -77,7 +77,7 @@ LIRI is run in the command line.
     * The command and query argument are passed to the `checkCommand` method which then calls the appropriate method.
     * Save command and argument to `addToFile` method.
     * Screenshot:
-        * ![Do-What-It-Says](assets/images/what-this.mov)
+        * ![Do-What-It-Says](assets/images/what-this.gif)
 
 
 
