@@ -51,7 +51,7 @@ let getPleaseMyInfo = {
     // format: node liri.js concert-this <artist/band name here>
     concertThis: function (query) {
         if (query === '') {
-            query = 'Rick Astley';
+            query = 'Roberto Carlos';
         }
         axios.get("https://rest.bandsintown.com/artists/" + query + "/events?app_id=codingbootcamp&display-limit=5").then(
             function (response) {
@@ -83,7 +83,7 @@ let getPleaseMyInfo = {
     // format: node liri.js spotify-this-song '<song name here>'
     spotifyThis: function (query) {
         if (query === '') {
-            query = 'Never Gonna Give You Up';
+            query = 'The Sign';
         }
         spotify.search({ type: 'track', query: query, limit: 5 }, function (err, data) {
             if (err) {
@@ -176,7 +176,7 @@ let getPleaseMyInfo = {
 }
 
 // BONUS In addition to logging the data to your terminal/bash 
-// window, output the data to a .txt file called log.txt.
+// window, output the data to a .txt file called logLiri.txt.
 // Make sure you append each command you run to the log.txt file.
 
 // APPEND searches to log.txt
@@ -189,7 +189,7 @@ function addToFile(nodeCmd, query, info) {
             return console.log(err);
         }
         else {
-            console.log("log.txt file was appended!");
+            console.log("logLiri.txt file was appended!");
         }
     });
 };

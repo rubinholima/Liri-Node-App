@@ -1,12 +1,659 @@
 --------------------------------------------------
-[2019/11/24 10:53:12] do-what-it-says "Mr. Nobody"
+[2019/11/24 11:15:26] do-what-it-says "I Want it That Way
 --------------------------------------------------
-Title: Mr. Nobody
-Year: 2009
-IMDB Rating: 7.8/10
-Rotten Tomatoes Rating: 67%
-Country: Belgium, Germany, Canada, France, USA, UK
-Language: English, Mohawk
-Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
-Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=737dea31656a4ea2baa873eda6816870
+Album: The Hits--Chapter One
+
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=737dea31656a4ea2baa873eda6816870
+Album: Millennium
+
+Artist: Mick Jensen
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=737dea31656a4ea2baa873eda6816870
+Album: I Want It That Way
+
+Artist: Anthem Lights
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=737dea31656a4ea2baa873eda6816870
+Album: Covers Part IV
+
+Artist: Tyler and Mark
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=737dea31656a4ea2baa873eda6816870
+Album: Beautiful Dreams
+
+
+--------------------------------------------------
+[2019/11/24 11:15:36] concert-this Celine dion
+--------------------------------------------------
+Venue: United Center
+Location: Chicago, IL, United States
+Date of Event: 12/01/2019
+
+Venue: Bankers Life Fieldhouse
+Location: Indianapolis, IN, United States
+Date of Event: 12/03/2019
+
+Venue: KeyBank Center
+Location: Buffalo, NY, United States
+Date of Event: 12/05/2019
+
+Venue: Times Union Center
+Location: Albany, NY, United States
+Date of Event: 12/07/2019
+
+Venue: Scotiabank Arena
+Location: Toronto, Canada
+Date of Event: 12/09/2019
+
+Venue: Scotiabank Arena
+Location: Toronto, Canada
+Date of Event: 12/10/2019
+
+Venue: TD Garden
+Location: Boston, MA, United States
+Date of Event: 12/13/2019
+
+Venue: TD Garden
+Location: Boston, MA, United States
+Date of Event: 12/14/2019
+
+Venue: VyStar Veterans Memorial Arena
+Location: Jacksonville, FL, United States
+Date of Event: 01/08/2020
+
+Venue: State Farm Arena
+Location: Atlanta, GA, United States
+Date of Event: 01/11/2020
+
+Venue: Bridgestone Arena
+Location: Nashville, TN, United States
+Date of Event: 01/13/2020
+
+Venue: Amalie Arena
+Location: Tampa, FL, United States
+Date of Event: 01/15/2020
+
+Venue: AmericanAirlines Arena
+Location: Miami, FL, United States
+Date of Event: 01/17/2020
+
+Venue: AmericanAirlines Arena
+Location: Miami, FL, United States
+Date of Event: 01/18/2020
+
+Venue: Spectrum Center
+Location: Charlotte, NC, United States
+Date of Event: 01/21/2020
+
+Venue: AT&T Center
+Location: San Antonio, TX, United States
+Date of Event: 01/30/2020
+
+Venue: Toyota Center
+Location: Houston, TX, United States
+Date of Event: 02/01/2020
+
+Venue: American Airlines Center
+Location: Dallas, TX, United States
+Date of Event: 02/03/2020
+
+Venue: BOK Center
+Location: Tulsa, OK, United States
+Date of Event: 02/05/2020
+
+Venue: Smoothie King Center
+Location: New Orleans, LA, United States
+Date of Event: 02/07/2020
+
+Venue: FedExForum
+Location: Memphis, TN, United States
+Date of Event: 02/09/2020
+
+Venue: PNC Arena
+Location: Raleigh, NC, United States
+Date of Event: 02/11/2020
+
+Venue: Bell Centre
+Location: Montreal, Canada
+Date of Event: 02/18/2020
+
+Venue: Bell Centre
+Location: Montreal, Canada
+Date of Event: 02/19/2020
+
+Venue: Boardwalk Hall
+Location: Atlantic City, NJ, United States
+Date of Event: 02/22/2020
+
+Venue: Royal Farms Arena (formerly Baltimore Arena)
+Location: Baltimore, MD, United States
+Date of Event: 02/24/2020
+
+Venue: Wells Fargo Center
+Location: Philadelphia, PA, United States
+Date of Event: 02/26/2020
+
+Venue: Barclays Center
+Location: Brooklyn, NY, United States
+Date of Event: 02/28/2020
+
+Venue: Barclays Center
+Location: Brooklyn, NY, United States
+Date of Event: 02/29/2020
+
+Venue: Nassau Veterans Memorial Coliseum
+Location: Uniondale, NY, United States
+Date of Event: 03/03/2020
+
+Venue: Barclays Center
+Location: Brooklyn, NY, United States
+Date of Event: 03/05/2020
+
+Venue: Prudential Center
+Location: Newark, NJ, United States
+Date of Event: 03/07/2020
+
+Venue: Prudential Center
+Location: Newark, NJ, United States
+Date of Event: 03/08/2020
+
+Venue: Capital One Arena
+Location: Washington, DC, United States
+Date of Event: 03/11/2020
+
+Venue: PPG Paints Arena
+Location: Pittsburgh, PA, United States
+Date of Event: 03/13/2020
+
+Venue: Pepsi Center
+Location: Denver, CO, United States
+Date of Event: 03/24/2020
+
+Venue: Vivint Smart Home Arena
+Location: Salt Lake City, UT, United States
+Date of Event: 03/26/2020
+
+Venue: Gila River Arena
+Location: Glendale, AZ, United States
+Date of Event: 03/29/2020
+
+Venue: Pechanga Arena San Diego
+Location: San Diego, CA, United States
+Date of Event: 03/31/2020
+
+Venue: Staples Center
+Location: Los Angeles, CA, United States
+Date of Event: 04/02/2020
+
+Venue: Staples Center
+Location: Los Angeles, CA, United States
+Date of Event: 04/03/2020
+
+Venue: Golden 1 Center
+Location: Sacramento, CA, United States
+Date of Event: 04/07/2020
+
+Venue: Oakland Arena
+Location: Oakland, CA, United States
+Date of Event: 04/09/2020
+
+Venue: Chase Center
+Location: San Francisco, CA, United States
+Date of Event: 04/10/2020
+
+Venue: Chase Center
+Location: San Francisco, CA, United States
+Date of Event: 04/11/2020
+
+Venue: Moda Center
+Location: Portland, OR, United States
+Date of Event: 04/13/2020
+
+Venue: Tacoma Dome
+Location: Tacoma, WA, United States
+Date of Event: 04/15/2020
+
+Venue: Rogers Arena
+Location: Vancouver, Canada
+Date of Event: 04/17/2020
+
+Venue: Rogers Arena
+Location: Vancouver, Canada
+Date of Event: 04/18/2020
+
+Venue: Rogers Place
+Location: Edmonton, Canada
+Date of Event: 04/21/2020
+
+Venue: Rogers Place
+Location: Edmonton, Canada
+Date of Event: 04/22/2020
+
+Venue: Sasktel Centre
+Location: Saskatoon, Canada
+Date of Event: 04/25/2020
+
+Venue: Bell MTS Place
+Location: Winnipeg, Canada
+Date of Event: 04/27/2020
+
+Venue: O2 Arena
+Location: Prague, Czech Republic
+Date of Event: 05/21/2020
+
+Venue: Atlas Arena
+Location: Łódź, Poland
+Date of Event: 05/23/2020
+
+Venue: Tauron Arena Krakow
+Location: Kraków, Poland
+Date of Event: 05/25/2020
+
+Venue: Sportpaleis
+Location: Antwerpen - Merksem, Belgium
+Date of Event: 05/28/2020
+
+Venue: Sportpaleis
+Location: Antwerpen - Merksem, Belgium
+Date of Event: 05/30/2020
+
+Venue: Hallenstadion
+Location: Zürich, Switzerland
+Date of Event: 06/02/2020
+
+Venue: Hallenstadion
+Location: Zürich, Switzerland
+Date of Event: 06/03/2020
+
+Venue: ARENA ZAGREB
+Location: Zagreb, Croatia
+Date of Event: 06/05/2020
+
+Venue: Papp Laszlo Arena
+Location: Budapest, Hungary
+Date of Event: 06/07/2020
+
+Venue: Ziggo Dome
+Location: Amsterdam, Netherlands
+Date of Event: 06/10/2020
+
+Venue: Ziggo Dome
+Location: Amsterdam, Netherlands
+Date of Event: 06/12/2020
+
+Venue: Ziggo Dome
+Location: Amsterdam, Netherlands
+Date of Event: 06/13/2020
+
+Venue: Wiener Stadthalle - Halle D
+Location: Wien, Austria
+Date of Event: 06/15/2020
+
+Venue: Kleine Olympiahalle München
+Location: München, Germany
+Date of Event: 06/17/2020
+
+Venue: SAP Arena
+Location: Mannheim, Germany
+Date of Event: 06/19/2020
+
+Venue: Lanxess Arena
+Location: Köln, Germany
+Date of Event: 06/21/2020
+
+Venue: Barclaycard Arena Hamburg
+Location: Hamburg, Germany
+Date of Event: 06/22/2020
+
+Venue: PARIS LA DEFENSE ARENA
+Location: Nanterre, France
+Date of Event: 06/26/2020
+
+Venue: PARIS LA DEFENSE ARENA
+Location: Nanterre, France
+Date of Event: 06/27/2020
+
+Venue: PARIS LA DEFENSE ARENA
+Location: Nanterre, France
+Date of Event: 06/30/2020
+
+Venue: PARIS LA DEFENSE ARENA
+Location: Nanterre, France
+Date of Event: 07/01/2020
+
+Venue: PARIS LA DEFENSE ARENA
+Location: Nanterre, France
+Date of Event: 07/03/2020
+
+Venue: PARIS LA DEFENSE ARENA
+Location: Nanterre, France
+Date of Event: 07/04/2020
+
+Venue: Plaine De L'asse
+Location: Nyon, France
+Date of Event: 07/20/2020
+
+Venue: Waldbühne Berlin
+Location: Berlin, Germany
+Date of Event: 07/22/2020
+
+Venue: Mura di Lucca - Viale Carducci
+Location: Lucca, Italy
+Date of Event: 07/25/2020
+
+Venue: National Stadium Bukarest
+Location: Bucharest, Romania
+Date of Event: 07/29/2020
+
+Venue: Hartwall Arena
+Location: Helsinki, Finland
+Date of Event: 08/24/2020
+
+Venue: Hartwall Arena
+Location: Helsinki, Finland
+Date of Event: 08/25/2020
+
+Venue: Telenor Arena
+Location: Fornebu, Norway
+Date of Event: 08/28/2020
+
+Venue: Telenor Arena
+Location: Fornebu, Norway
+Date of Event: 08/29/2020
+
+Venue: Royal Arena
+Location: København S, Denmark
+Date of Event: 08/31/2020
+
+Venue: Royal Arena
+Location: København S, Denmark
+Date of Event: 09/01/2020
+
+Venue: Manchester Arena
+Location: Manchester, United Kingdom
+Date of Event: 09/04/2020
+
+Venue: Manchester Arena
+Location: Manchester, United Kingdom
+Date of Event: 09/05/2020
+
+Venue: Arena Birmingham
+Location: Birmingham, United Kingdom
+Date of Event: 09/08/2020
+
+Venue: Arena Birmingham
+Location: Birmingham, United Kingdom
+Date of Event: 09/09/2020
+
+Venue: The SSE Hydro
+Location: Glasgow, United Kingdom
+Date of Event: 09/11/2020
+
+Venue: The SSE Hydro
+Location: Glasgow, United Kingdom
+Date of Event: 09/12/2020
+
+Venue: 3Arena
+Location: Dublin, Ireland
+Date of Event: 09/14/2020
+
+Venue: 3Arena
+Location: Dublin, Ireland
+Date of Event: 09/15/2020
+
+Venue: The O2
+Location: London, United Kingdom
+Date of Event: 09/17/2020
+
+Venue: The O2
+Location: London, United Kingdom
+Date of Event: 09/18/2020
+
+
+--------------------------------------------------
+[2019/11/24 11:15:43] spotify-this-song new york new york
+--------------------------------------------------
+Artist: FLETCHER
+Song Name: Undrunk
+Preview Link: null
+Album: you ruined new york city for me
+
+Artist: Harry Styles
+Song Name: Ever Since New York
+Preview Link: https://p.scdn.co/mp3-preview/6a3853cf91ab7a4bc333652314efa33edecc9779?cid=737dea31656a4ea2baa873eda6816870
+Album: Harry Styles
+
+Artist: Frank Sinatra
+Song Name: Theme From New York, New York
+Preview Link: null
+Album: Ultimate Sinatra
+
+Artists: The Pogues, Kirsty MacColl
+Song Name: Fairytale of New York (feat. Kirsty MacColl)
+Preview Link: https://p.scdn.co/mp3-preview/92dd72b44584eab763227ea7ed787bb93ef53bcd?cid=737dea31656a4ea2baa873eda6816870
+Album: If I Should Fall From Grace With God (Expanded)
+
+Artist: FLETCHER
+Song Name: All Love
+Preview Link: null
+Album: you ruined new york city for me
+
+
+--------------------------------------------------
+[2019/11/24 11:34:39] concert-this roupa nova
+--------------------------------------------------
+Venue: Altice Arena
+Location: Lisboa, Portugal
+Date of Event: 11/24/2019
+
+Venue: Restaurante Florestal Demarchi
+Location: Campo Do Barreira, Brazil
+Date of Event: 12/05/2019
+
+Venue: Arena Vida Nova
+Location: Embu, Brazil
+Date of Event: 12/13/2019
+
+Venue: Espaço das Américas
+Location: São Paulo, Brazil
+Date of Event: 02/08/2020
+
+Venue: Espaço das Américas
+Location: São Paulo, Brazil
+Date of Event: 02/09/2020
+
+
+--------------------------------------------------
+[2019/11/24 11:36:20] spotify-this-song Bruno Mars
+--------------------------------------------------
+Artist: Bruno Mars
+Song Name: Just the Way You Are
+Preview Link: https://p.scdn.co/mp3-preview/07c6c33d6426d61ffd2e93d4c06ca599f7761b46?cid=737dea31656a4ea2baa873eda6816870
+Album: Doo-Wops & Hooligans
+
+Artist: Bruno Mars
+Song Name: That's What I Like
+Preview Link: https://p.scdn.co/mp3-preview/f09116ce18bd77f543e68a925e5a96509e79ac6a?cid=737dea31656a4ea2baa873eda6816870
+Album: 24K Magic
+
+Artist: Bruno Mars
+Song Name: When I Was Your Man
+Preview Link: https://p.scdn.co/mp3-preview/d93150cf43f68c863d9f73a6f1e2b3e64e44488e?cid=737dea31656a4ea2baa873eda6816870
+Album: Unorthodox Jukebox
+
+Artists: Snoop Dogg, Wiz Khalifa, Bruno Mars
+Song Name: Young, Wild & Free (feat. Bruno Mars)
+Preview Link: https://p.scdn.co/mp3-preview/07aa6b278601d4f50c382fd750000f0f88020f7f?cid=737dea31656a4ea2baa873eda6816870
+Album: Young, Wild & Free (feat. Bruno Mars)
+
+Artists: Mark Ronson, Bruno Mars
+Song Name: Uptown Funk
+Preview Link: https://p.scdn.co/mp3-preview/88a794d97fcb4475f72a27be7baf71b94d5a9dda?cid=737dea31656a4ea2baa873eda6816870
+Album: Uptown Special
+
+
+--------------------------------------------------
+[2019/11/24 11:36:40] spotify-this-song hero
+--------------------------------------------------
+Artist: Skillet
+Song Name: Hero
+Preview Link: https://p.scdn.co/mp3-preview/a86af6cfc8543b4acfdb57134147067550b1ef9f?cid=737dea31656a4ea2baa873eda6816870
+Album: Awake
+
+Artist: Foreigner
+Song Name: Juke Box Hero
+Preview Link: https://p.scdn.co/mp3-preview/596f26d42b94be4ef06d7b63f4a02cbfd3e40c48?cid=737dea31656a4ea2baa873eda6816870
+Album: 4 (Expanded)
+
+Artist: Maren Morris
+Song Name: I Could Use a Love Song
+Preview Link: https://p.scdn.co/mp3-preview/f03fca82860612598d076212ee8d25e5fb4c1629?cid=737dea31656a4ea2baa873eda6816870
+Album: HERO (Deluxe Edition)
+
+Artist: Foo Fighters
+Song Name: My Hero
+Preview Link: https://p.scdn.co/mp3-preview/ea1fb01ec4f28f204b1591c2953d1f6c886941e2?cid=737dea31656a4ea2baa873eda6816870
+Album: The Colour And The Shape
+
+Artist: Lil Durk
+Song Name: Neighborhood Hero
+Preview Link: null
+Album: Signed To The Streets 3
+
+
+--------------------------------------------------
+[2019/11/24 11:38:11] movie-this it
+--------------------------------------------------
+Title: It
+Year: 2017
+IMDB Rating: 7.3/10
+Rotten Tomatoes Rating: 86%
+Country: USA, Canada
+Language: English
+Plot: In the summer of 1989, a group of bullied kids band together to destroy a shape-shifting monster, which disguises itself as a clown and preys on the children of Derry, their small Maine town.
+Actors: Jaeden Martell, Jeremy Ray Taylor, Sophia Lillis, Finn Wolfhard
+
+--------------------------------------------------
+[2019/11/24 11:38:56] do-what-it-says "I Want it That Way
+--------------------------------------------------
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=737dea31656a4ea2baa873eda6816870
+Album: The Hits--Chapter One
+
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=737dea31656a4ea2baa873eda6816870
+Album: Millennium
+
+Artist: Mick Jensen
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=737dea31656a4ea2baa873eda6816870
+Album: I Want It That Way
+
+Artist: Anthem Lights
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=737dea31656a4ea2baa873eda6816870
+Album: Covers Part IV
+
+Artist: Tyler and Mark
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=737dea31656a4ea2baa873eda6816870
+Album: Beautiful Dreams
+
+
+--------------------------------------------------
+[2019/11/24 11:48:14] concert-this roupa nova
+--------------------------------------------------
+Venue: Restaurante Florestal Demarchi
+Location: Campo Do Barreira, Brazil
+Date of Event: 12/05/2019
+
+Venue: Arena Vida Nova
+Location: Embu, Brazil
+Date of Event: 12/13/2019
+
+Venue: Espaço das Américas
+Location: São Paulo, Brazil
+Date of Event: 02/08/2020
+
+Venue: Espaço das Américas
+Location: São Paulo, Brazil
+Date of Event: 02/09/2020
+
+
+--------------------------------------------------
+[2019/11/24 11:49:49] spotify-this-song hero
+--------------------------------------------------
+Artist: Skillet
+Song Name: Hero
+Preview Link: https://p.scdn.co/mp3-preview/a86af6cfc8543b4acfdb57134147067550b1ef9f?cid=737dea31656a4ea2baa873eda6816870
+Album: Awake
+
+Artist: Foreigner
+Song Name: Juke Box Hero
+Preview Link: https://p.scdn.co/mp3-preview/596f26d42b94be4ef06d7b63f4a02cbfd3e40c48?cid=737dea31656a4ea2baa873eda6816870
+Album: 4 (Expanded)
+
+Artist: Maren Morris
+Song Name: I Could Use a Love Song
+Preview Link: https://p.scdn.co/mp3-preview/f03fca82860612598d076212ee8d25e5fb4c1629?cid=737dea31656a4ea2baa873eda6816870
+Album: HERO (Deluxe Edition)
+
+Artist: Foo Fighters
+Song Name: My Hero
+Preview Link: https://p.scdn.co/mp3-preview/ea1fb01ec4f28f204b1591c2953d1f6c886941e2?cid=737dea31656a4ea2baa873eda6816870
+Album: The Colour And The Shape
+
+Artist: Lil Durk
+Song Name: Neighborhood Hero
+Preview Link: null
+Album: Signed To The Streets 3
+
+
+--------------------------------------------------
+[2019/11/24 11:50:41] movie-this it
+--------------------------------------------------
+Title: It
+Year: 2017
+IMDB Rating: 7.3/10
+Rotten Tomatoes Rating: 86%
+Country: USA, Canada
+Language: English
+Plot: In the summer of 1989, a group of bullied kids band together to destroy a shape-shifting monster, which disguises itself as a clown and preys on the children of Derry, their small Maine town.
+Actors: Jaeden Martell, Jeremy Ray Taylor, Sophia Lillis, Finn Wolfhard
+
+--------------------------------------------------
+[2019/11/24 11:51:30] do-what-it-says "I Want it That Way
+--------------------------------------------------
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=737dea31656a4ea2baa873eda6816870
+Album: The Hits--Chapter One
+
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=737dea31656a4ea2baa873eda6816870
+Album: Millennium
+
+Artist: Mick Jensen
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=737dea31656a4ea2baa873eda6816870
+Album: I Want It That Way
+
+Artist: Anthem Lights
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=737dea31656a4ea2baa873eda6816870
+Album: Covers Part IV
+
+Artist: Tyler and Mark
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=737dea31656a4ea2baa873eda6816870
+Album: Beautiful Dreams
+
 
