@@ -1,29 +1,29 @@
 
 require("dotenv").config(); // imports dotenv
-var fs = require("fs"); // imports filesystem
-var axios = require("axios"); // Make XMLHttpRequests from the browser
-var moment = require("moment"); // time formatter
-var keys = require("./keys.js"); // imports keys.js files
-var Spotify = require('node-spotify-api');
+let fs = require("fs"); // imports filesystem
+let axios = require("axios"); // Make XMLHttpRequests from the browser
+let moment = require("moment"); // time formatter
+let keys = require("./keys.js"); // imports keys.js files
+let Spotify = require('node-spotify-api');
 
-var spotify = new Spotify(keys.spotify);
+let spotify = new Spotify(keys.spotify);
 
-var nodeCommand;
-var nodeArgString;
+let nodeCo;
+let nodeArguments;
 
-var hRule = "--------------------------------------------------\n";
+let hRule = "--------------------------------------------------\n";
 
-var getMyStuff = {
+let getPleaseMyInfo = {
     // get arguments from command line node liri.js <arguments>
     processArgs: function (arg) {
-        var tempArray = [];
-        nodeCommand = arg[2].toLowerCase();
-        for (var i = 3; i < arg.length; i++) {
+        let tempArray = [];
+        nodeCo = arg[2].toLowerCase();
+        for (let i = 3; i < arg.length; i++) {
             tempArray.push(arg[i]);
         }
-        nodeArgString = tempArray.join(" ");
-        // console.log("nodeArgString:", nodeArgString);
-        this.checkCommand(nodeCommand, nodeArgString);
+        nodeArguments = tempArray.join(" ");
+        // console.log("nodeArguments:", nodeArguments);
+        this.checkCommand(nodeCo, nodeArguments);
     },
 
     // determine command
@@ -55,9 +55,9 @@ var getMyStuff = {
         }
         axios.get("https://rest.bandsintown.com/artists/" + query + "/events?app_id=codingbootcamp&display-limit=5").then(
             function (response) {
-                // var concertInfo = hRule + nodeCommand + " " + query + "\n" + hRule;
-                var concertInfo = "";
-                for (var i = 0; i < response.data.length; i++) {
+                // let concertInfo = hRule + nodeCo + " " + query + "\n" + hRule;
+                let concertInfo = "";
+                for (let i = 0; i < response.data.length; i++) {
                     // display JSON response
                     concertInfo += "Venue: " + response.data[i].venue.name + "\n";
                     concertInfo += "Location: " + response.data[i].venue.city + ", ";
@@ -65,13 +65,13 @@ var getMyStuff = {
                         concertInfo += response.data[i].venue.region + ", ";
                     }
                     concertInfo += response.data[i].venue.country + "\n";
-                    var date = moment(response.data[i].datetime, moment.ISO_8601).format("MM/DD/YYYY");
+                    let date = moment(response.data[i].datetime, moment.ISO_8601).format("MM/DD/YYYY");
                     concertInfo += "Date of Event: " + date + "\n\n";
                     console.log(concertInfo);
                 }
 
                 // add to log.txt
-                addToFile(nodeCommand, query, concertInfo);
+                addToFile(nodeCo, query, concertInfo);
             })
             .catch(function (error) {
                 console.log(`Sorry, the band "${query}" could not be found.`);
@@ -89,10 +89,10 @@ var getMyStuff = {
             if (err) {
                 return console.log(`Sorry, "${query}" could not be found.`);
             }
-            // var songInfo = hRule + nodeCommand + " " + query + "\n" + hRule;
-            var songInfo = "";
-            for (var i = 0; i < data.tracks.items.length; i++) {
-                var artistsArray = [];
+            // let songInfo = hRule + nodeCo + " " + query + "\n" + hRule;
+            let songInfo = "";
+            for (let i = 0; i < data.tracks.items.length; i++) {
+                let artistsArray = [];
                 // Artist or Artists logic
                 if (data.tracks.items[i].artists.length > 1) {
                     songInfo += "Artists: "
@@ -101,7 +101,7 @@ var getMyStuff = {
                 }
 
                 // concat multiple artists array
-                for (var j = 0; j < data.tracks.items[i].artists.length; j++) {
+                for (let j = 0; j < data.tracks.items[i].artists.length; j++) {
                     artistsArray.push(data.tracks.items[i].artists[j].name);
                 }
                 songInfo += artistsArray.join(", ") + "\n";
@@ -113,7 +113,7 @@ var getMyStuff = {
                 console.log(songInfo);
             }
 
-            addToFile(nodeCommand, query, songInfo);
+            addToFile(nodeCo, query, songInfo);
 
         });
     },
@@ -128,7 +128,7 @@ var getMyStuff = {
             // success
             .then(function (response) {
                 // display JSON response
-                var movieInfo = "Title: " + response.data.Title + "\n";
+                let movieInfo = "Title: " + response.data.Title + "\n";
                 movieInfo += "Year: " + response.data.Year + "\n";
                 movieInfo += "IMDB Rating: " + response.data.Ratings[0].Value + "\n";
                 movieInfo += "Rotten Tomatoes Rating: " + response.data.Ratings[1].Value + "\n";
@@ -138,7 +138,7 @@ var getMyStuff = {
                 movieInfo += "Actors: " + response.data.Actors + "\n";
                 // PUSH TO FILE
 
-                addToFile(nodeCommand, query, movieInfo);
+                addToFile(nodeCo, query, movieInfo);
                 console.log(movieInfo);
                 // DATE, COMMAND, PARAMETER - LOG should be short, not have everything.
                 // LOGS are concise.
@@ -166,10 +166,10 @@ var getMyStuff = {
             console.log(data);
 
             // split into array
-            var dataArray = data.split(",");
+            let dataArray = data.split(",");
 
             // call the checkCommand method
-            getMyStuff.checkCommand(dataArray[0], dataArray[1]);
+            getPleaseMyInfo.checkCommand(dataArray[0], dataArray[1]);
 
         });
     }
@@ -181,10 +181,10 @@ var getMyStuff = {
 
 // APPEND searches to log.txt
 function addToFile(nodeCmd, query, info) {
-    var logFile = hRule + "[" + moment().format("YYYY/MM/DD hh:mm:ss") + "] ";
+    let logFile = hRule + "[" + moment().format("YYYY/MM/DD hh:mm:ss") + "] ";
     logFile += nodeCmd + " " + query + "\n" + hRule + info;
 
-    fs.appendFile("log.txt", logFile + "\n", function (err) {
+    fs.appendFile("logLiri.txt", logFile + "\n", function (err) {
         if (err) {
             return console.log(err);
         }
@@ -195,6 +195,6 @@ function addToFile(nodeCmd, query, info) {
 };
 
 
-getMyStuff.processArgs(process.argv);
+getPleaseMyInfo.processArgs(process.argv);
 
 
