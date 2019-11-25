@@ -1,0 +1,92 @@
+Search For Artist ....: Roupa Nova
+Venue: Restaurante Florestal Demarchi
+Venue Location: Campo Do Barreira
+Date: Thursday, December 5, 2019 7:30 PM
+------------------------------------------------------------
+
+Search For Artist ....: Roupa Nova
+Venue: Arena Vida Nova
+Venue Location: Embu
+Date: Friday, December 13, 2019 10:30 PM
+------------------------------------------------------------
+
+Search For Artist ....: Roupa Nova
+Venue: Espaço das Américas
+Venue Location: São Paulo
+Date: Saturday, February 8, 2020 8:00 PM
+------------------------------------------------------------
+
+Search For Artist ....: Roupa Nova
+Venue: Espaço das Américas
+Venue Location: São Paulo
+Date: Sunday, February 9, 2020 6:00 PM
+------------------------------------------------------------
+
+Search For Movie ....: the others
+
+------------------------------------------------------------
+
+Search For Movie ....: the others
+
+------------------------------------------------------------
+
+Search For Movie ....: the others
+
+Title of the Movie: The Others
+
+
+Year: 2001
+
+Rated: PG-13
+
+Rotten Tomatoes Rating: 83%
+
+Country(ies) of Production: Spain, USA, France, Italy
+
+Language(s): English, French
+
+Plot: A woman who lives in her darkened old family house with her two photosensitive children becomes convinced that the home is haunted.
+
+Actors: Nicole Kidman, Fionnula Flanagan, Christopher Eccleston, Alakina Mann
+------------------------------------------------------------
+
+Search For Movie ....: "Mr. Nobody"
+
+Title of the Movie: Mr. Nobody
+
+
+Year: 2009
+
+Rated: R
+
+Rotten Tomatoes Rating: 67%
+
+Country(ies) of Production: Belgium, Germany, Canada, France, USA, UK
+
+Language(s): English, Mohawk
+
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+------------------------------------------------------------
+
+Search For Movie ....: the others
+
+Title of the Movie: The Others
+
+
+Year: 2001
+
+Rated: PG-13
+
+Rotten Tomatoes Rating: 83%
+
+Country(ies) of Production: Spain, USA, France, Italy
+
+Language(s): English, French
+
+Plot: A woman who lives in her darkened old family house with her two photosensitive children becomes convinced that the home is haunted.
+
+Actors: Nicole Kidman, Fionnula Flanagan, Christopher Eccleston, Alakina Mann
+------------------------------------------------------------
+
