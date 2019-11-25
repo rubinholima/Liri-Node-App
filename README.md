@@ -59,7 +59,7 @@ LIRI is run in the command line.
     * If no argument is given, "Never gonna give you up" will be used as a default argument.
     * Save command and argument to `addToFile` method.
     * Screenshot:
-        * ![Spotify-This-Song](assets/images/SpotifyThis.gif)
+        * ![Spotify-This-Song](assets/images/Spotify-This.gif)
         
 
 
